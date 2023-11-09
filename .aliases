@@ -1,0 +1,6 @@
+alias ll="exa -l -g --icons"
+alias llt="exa -1 --icons --tree"
+alias tree="exa --icons --tree -L 1 -I node_modules"
+alias lzd="lazydocker"
+alias lg="lazygit"
+
